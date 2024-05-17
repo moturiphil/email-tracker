@@ -1,0 +1,26 @@
+{
+  "name": "email-tracker",
+  "version": "1.0.0",
+  "description": "This is an email tracker: to log when a user receives, reads, print or delete an email",
+  "main": "dashboard.js",
+  "scripts": {
+    "test": "dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moturiphil/email-tracker.git"
+  },
+  "keywords": [
+    "email",
+    "tracker"
+  ],
+  "author": "moturiphil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/moturiphil/email-tracker/issues"
+  },
+  "homepage": "https://github.com/moturiphil/email-tracker#readme",
+  "dependencies": {
+    "@highcharts/dashboards": "^2.1.0"
+  }
+}
